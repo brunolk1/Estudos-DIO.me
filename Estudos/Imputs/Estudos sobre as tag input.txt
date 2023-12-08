@@ -1,0 +1,22 @@
+Estudos sobre as tag "input".
+
+input number e seus atributos primcipal <label for="">Number: </label> <input type="number" min="0" step="5" max="99">
+
+Range é um input de nivel em Scroll <label for="">Range</label><input type="range" min="0" max="100" value="20" ><br>
+
+
+codigo usado:
+<form action="">
+
+    <label for=""> Text: </label> <input type="text"> <br>
+    <label for="">Number: </label> <input type="number" min="0" step="5" max="99"><br>
+    <label for="">Range</label><input type="range" min="0" max="100" value="20" ><br>
+    <label for=""> Color: </label> <input type="color" > <br>
+    <label for=""> E-mail: </label> <input type="text"> <br>
+    <label for=""> URL: </label> <input type="url"> <br>
+    <label for=""> Date: </label> <input type="date"> <br>
+    <label for=""> Checkbox: </label> <input type="checkbox"><input type="checkbox"> <br>
+    <label for=""> Radio: </label> <input type="radio" name="sim"><input type="radio" name="sim"> <br>
+    <button type="submit" value="Enviar"><label for="">Button: </label></button> <br>
+
+</form>
