@@ -5,6 +5,9 @@ input number e seus atributos primcipal <label for="">Number: </label> <input ty
 Range é um input de nivel em Scroll <label for="">Range</label><input type="range" min="0" max="100" value="20" ><br>
 
 
+Site https://www.w3schools.com/html/html_form_input_types.asp
+
+
 codigo usado:
 <form action="">
 
